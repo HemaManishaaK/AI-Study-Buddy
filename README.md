@@ -48,6 +48,3 @@ GEMINI_API_KEY=your_actual_api_key
 python -m streamlit run app.py
 ```
 
-## Important
-
-Do not upload your `.env` file or API key to GitHub.
